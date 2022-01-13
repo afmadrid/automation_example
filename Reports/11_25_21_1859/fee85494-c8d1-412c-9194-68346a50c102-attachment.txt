@@ -1,0 +1,12 @@
+***************Pre Conditions***************
+Timer 19 updated to 300 seconds
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 35: IP configured to standard reveal endpoint.
+Step 36: PTO 3 configuration verified.
+Step 37: Login into Reveal as customer.
+         Panic alerts configured.
+Step 38: Ignition turned On.
+         Wait time of 50 seconds.
+Step 39: Live map status verified.

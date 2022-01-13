@@ -1,0 +1,14 @@
+***************Pre Conditions***************
+Step 56: Timer 19 configured to 300 seconds.
+         Command ":wycfg tmr[19] 300 0" sent.
+         Command ":vycfg" sent.
+         Ignition turned On.
+         Wait time of 50 seconds.
+******************Test Case*****************
+Step 57: Pan/priv button pressed for 7 seconds.
+Step 58: Pan/priv accumulator status verified with command ":rrval uservar 0 8"
+Step 59: Wait time until panic alert expiration in Timer 19.
+         Command ":rrval timer 19" sent.
+Step 60: Pan/priv accumulator status verified with command ":rrval uservar 0 8"
+Step 61: Event code verified.
+Step 62: LED status verified.

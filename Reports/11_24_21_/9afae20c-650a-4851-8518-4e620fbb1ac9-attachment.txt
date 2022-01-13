@@ -1,0 +1,15 @@
+***************Pre Conditions***************
+Buzzer configured for 5 minutes.
+Unit configured for 10 minutes grace period.
+******************Test Case*****************
+Step 5: Iginition Turned On
+Step 6
+Step 7: Wait time of 5 minutes.
+Step 8: Key fob is applied.
+Step 9: Iginition Turned Off.
+Wait time of 2.5 minutes.
+Iginition Turned Off.
+Step 10
+Step 11
+******************Tear Down*****************
+Ignition Turned Off

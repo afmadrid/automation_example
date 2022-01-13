@@ -1,0 +1,6 @@
+*****Preconditions******
+Setup power supply to 13.3V
+Set Diesel to 1200 rpm
+Open port COM3, 115200, 01,00
+*****Test Case 3*****
+Read calculated odometer

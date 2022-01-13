@@ -1,0 +1,26 @@
+***************Pre Conditions***************
+Timer 19 updated to 300 seconds
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 1: IP configured to standard reveal endpoint.
+Step 2
+Step 3: Login into Reveal as customer.
+Panic alerts configured.
+Step 4: Ignition turned On.
+Wait time of 50 seconds.
+Step 5
+Step 6: Pan/priv button is pressed for 6 seconds.
+Command ":rrval uservar 0 8"
+Step 7
+Step 8: Panic alert confirmed.
+Step 9
+Step 10
+Step 11
+Step 12: Power Supply set to Off.
+Wait time of 50 seconds.
+Step 13: Power Supply set to Off.
+Step 14: Panic alert cancelled in red banner.
+Step 15
+******************Tear Down*****************
+Ignition Turned Off

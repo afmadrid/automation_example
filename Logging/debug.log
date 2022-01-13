@@ -1,0 +1,18 @@
+DEBUG:root:This line of code is for test 1
+DEBUG:root:This line of code is for test 2
+DEBUG:root:This line of code is for test 3
+DEBUG:root:This line of code is for test 4
+DEBUG:root:This line of code is for test 5
+DEBUG:root:This line of code is for test 6
+2021-11-11 09:50:31,851:DEBUG,This line of code is for test 1
+2021-11-11 09:50:31,851:DEBUG,This line of code is for test 2
+2021-11-11 09:50:31,851:DEBUG,This line of code is for test 3
+2021-11-11 09:50:31,852:DEBUG,This line of code is for test 4
+2021-11-11 09:50:31,852:DEBUG,This line of code is for test 5
+2021-11-11 09:50:31,852:DEBUG,This line of code is for test 6
+2021-11-11 09:51:04,022:DEBUG,This line of code is for test 1
+2021-11-11 09:51:04,022:DEBUG,This line of code is for test 2
+2021-11-11 09:51:04,023:DEBUG,This line of code is for test 3
+2021-11-11 09:51:04,023:DEBUG,This line of code is for test 4
+2021-11-11 09:51:04,023:DEBUG,This line of code is for test 5
+2021-11-11 09:51:04,023:DEBUG,This line of code is for test 6

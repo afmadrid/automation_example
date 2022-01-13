@@ -1,0 +1,27 @@
+***************Pre Conditions***************
+Timer 19 updated to 300 seconds
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 1: IP configured to IoT endpoint.
+Step 2: PTO 3 configuration verified.
+Step 3: Login into Reveal as customer.
+        Panic alerts configured.
+Step 4: Ignition turned On.
+        Wait time of 50 seconds.
+Step 5: Live map status verified.
+Step 6: Pan/priv button is pressed for 6 seconds.
+Step 7: Pan/priv accumulator status verified.
+        command ":rrval uservar 0 8" sent.
+Step 8: Red Banner in panic alert verified.
+Step 9: Panic alert in red banner verified.
+Step 10: LED frequency verified.
+Step 11: Status of pan/priv accumulator verified.
+Step 12: Event code verified.
+Step 13: Power Supply set to Off.
+         Wait time of 50 seconds.
+Step 14: Power Supply set to Off.
+Step 15: Panic alert cancelled in red banner.
+Step 16: Event code verified.
+******************Tear Down*****************
+Ignition Turned Off

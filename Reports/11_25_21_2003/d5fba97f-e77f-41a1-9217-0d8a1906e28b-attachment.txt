@@ -1,0 +1,9 @@
+***************Pre Conditions***************
+Timer 19 updated to 300 seconds
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 1: IP configured to standard reveal endpoint.
+Step 2: PTO 3 configuration verified.
+******************Tear Down*****************
+Ignition Turned Off

@@ -1,0 +1,13 @@
+***************Pre Conditions Test Case 5***************
+Instrument "USB0::0x1AB1::0x0E11::DP8B224001956::INSTR" initialized.
+Channel 1 selected.
+Diesel initalized in port COM5
+Xirgo initialized in port: COM6
+Channel 1 turned ON.
+Voltage set to 13.5 V in channel 1.
+***************Test Case 5***************
+Diesel RPM set to 900
+RPM measured from Xirgo are: 300
+***************Tear Down Test Case 5***************
+Voltage set to 0 V in channel 1.
+Channel 1 turned OFF.

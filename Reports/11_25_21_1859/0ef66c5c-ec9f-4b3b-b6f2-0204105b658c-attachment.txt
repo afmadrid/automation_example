@@ -1,0 +1,14 @@
+***************Pre Conditions***************
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 18: Pan/priv button pressed.
+Step 19: Pan/priv accumulator status verified with command ":rrval uservar 0 8"
+Step 20: Ignition Turned Off
+Step 21: Status of Pan/priv accumulator verified.
+Step 22: Event code verified.
+Step 23: Wait time of 50 seconds.
+Step 24: Status of pan/priv input verified.
+Step 25: Ignition Turned On
+Step 26: LED frequency verified.
+Step 27: Panic button pressed for 2 seconds.

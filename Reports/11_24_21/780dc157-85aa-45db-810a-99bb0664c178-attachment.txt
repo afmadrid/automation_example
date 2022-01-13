@@ -1,0 +1,13 @@
+***************Pre Conditions***************
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Pan/priv button pressed.
+Command ":rrval uservar 0 8"
+Power Supply set to Off.
+Wait time of 50 seconds.
+Power Supply set to On.
+Wait time of 10 seconds.
+Panic button pressed for 2 seconds.
+******************Tear Down*****************
+Ignition Turned Off

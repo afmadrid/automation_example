@@ -1,0 +1,14 @@
+***************Pre Conditions***************
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 65: Pan/priv button pressed for 3 seconds.
+Step 66: Command ":rrval uservar 0 8"
+Step 67
+Step 68: Ignition Turned Off
+Step 69: Wait time of 2 minutes.
+Step 70
+Step 71
+Step 72
+******************Tear Down*****************
+Ignition Turned Off

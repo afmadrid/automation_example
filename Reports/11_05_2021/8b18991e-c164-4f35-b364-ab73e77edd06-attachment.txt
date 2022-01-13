@@ -1,0 +1,24 @@
+***************Pre Conditions Test Case 8***************
+Instrument "USB0::0x1AB1::0x0E11::DP8B224001956::INSTR" initialized.
+Channel 1 selected.
+USB 16 Channels Relay card opened in port COM4 with baudrate of 11520
+Diesel initalized in port COM5
+Xirgo initialized in port: COM6
+Channel 1 turned ON.
+Voltage set to 13.5 V in channel 1.
+***************Test Case 8***************
+Relay 2 was enabled.
+Serial data sent: 
+3A 46 45 30 35 30 30 30 31 46 46 30 30 46 44 0D 0A
+Relay 4 was enabled.
+Serial data sent: 
+3A 46 45 30 35 30 30 30 33 46 46 30 30 46 42 0D 0A
+Diesel RPM set to 900
+RPM measured from Xirgo are: 1500
+***************Tear Down Test Case 8***************
+Voltage set to 0 V in channel 1.
+Channel 1 turned OFF.
+All relays where disabled.
+Serial data sent: 
+3A 46 45 30 46 30 30 30 30 30 30 31 30 30 32 30 30 30 30 45 31 0D 0A
+Diesel RPM set to 0

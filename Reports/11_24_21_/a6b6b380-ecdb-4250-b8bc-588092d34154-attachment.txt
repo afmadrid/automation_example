@@ -1,0 +1,8 @@
+***************Pre Conditions***************
+Timer 19 updated to 300 seconds
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 13: IP configured to IoT endpoint.
+******************Tear Down*****************
+Ignition Turned Off

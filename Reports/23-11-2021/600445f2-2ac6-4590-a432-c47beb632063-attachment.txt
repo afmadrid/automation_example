@@ -1,0 +1,3 @@
+***************Pre Conditions Test Case 5***************
+Instrument "USB0::0x1AB1::0x0E11::DP8B224001956::INSTR" initialized.
+Channel 1 selected.

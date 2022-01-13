@@ -1,0 +1,9 @@
+***************Pre Conditions***************
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 1: Pan/priv button pressed for 3 seconds.
+Step 2: Pan/priv accumulator status verified.
+        command ":rrval uservar 0 8" sent.
+******************Tear Down*****************
+Ignition Turned Off

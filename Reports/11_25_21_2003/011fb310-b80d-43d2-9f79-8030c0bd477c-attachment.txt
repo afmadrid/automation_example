@@ -1,0 +1,10 @@
+***************Pre Conditions***************
+Timer 19 configured to 300 seconds.
+Command ":wycfg tmr[19] 300 0" sent.
+Command ":vycfg" sent.
+Ignition turned On.
+Wait time of 50 seconds.
+******************Test Case*****************
+Step 1: Pan/priv button pressed for 7 seconds.
+******************Tear Down*****************
+Ignition Turned Off

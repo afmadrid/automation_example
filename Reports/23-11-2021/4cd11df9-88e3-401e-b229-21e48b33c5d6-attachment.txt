@@ -1,0 +1,8 @@
+***************Pre Conditions Test Case 4***************
+Instrument "USB0::0x1AB1::0x0E11::DP8B224001956::INSTR" initialized.
+Channel 1 selected.
+USB 16 Channels Relay card opened in port COM7 with baudrate of 11520
+Diesel initalized in port COM5
+Xirgo initialized in port: COM6
+Channel 1 turned ON.
+Voltage set to 13.5 V in channel 1.
